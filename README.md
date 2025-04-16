@@ -55,3 +55,11 @@ Ce projet consiste à implémenter un programme permettant d’analyser un ensem
 - **Génération de traces** pas-à-pas (dans `main_trace.py`)
 
 ---
+
+## Réalisé par 
+
+- SHANG Jacky
+- LEE Zhuo Chan Stive
+- LAZAUCHE Louis  
+- THIRIOT-LESNE Matthew 
+- AYETO Jonathan
